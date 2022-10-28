@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+  color: #679098;
+  font-size: 100px;
+}
+
+h2 {
+  text-align: center;
+  color: #679098;
+  font-style: italic;
+  font-size: 30px;
+}
+
+img {
+  max-width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+body {
+  background-color: #909867;
+  font-family: sans-serif;
+  line-height: 150%;
+}
+
+p {
+  text-align: center;
+  color: #986790;
+}

@@ -1,12 +1,12 @@
 h1 {
   text-align: center;
-  color: #679098;
+  color: #7732CD;
   font-size: 100px;
 }
 
 h2 {
   text-align: center;
-  color: #679098;
+  color: #7732CD;
   font-style: italic;
   font-size: 30px;
 }
@@ -19,12 +19,12 @@ img {
 }
 
 body {
-  background-color: #909867;
+  background-color: #32CD77;
   font-family: sans-serif;
   line-height: 150%;
 }
 
 p {
   text-align: center;
-  color: #986790;
+  color: #CD7732;
 }
